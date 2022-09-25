@@ -17,3 +17,6 @@ Usage: smsclient.pl -p number
 
     Developed for the Multicom MultiConnect rCell 100
     https://github.com/WillCodeForCats/rcell-smsclient
+
+# MultiConnect® rCell 100 Series
+https://www.multitech.com/brands/multiconnect-rcell-100-series
